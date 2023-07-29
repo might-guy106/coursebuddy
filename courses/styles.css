@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    text-align: center;
+    padding: 3%;
+}
+.course{
+    margin: 0% 0% 15%;
+    color: #EEE3CB;
+}
+.resources{
+    background-image: linear-gradient(to bottom right,#D8C4B6 ,#967e76);
+    padding: 4%;
+    border-radius: 15px;
+    /* width: 70%; */
+    /* margin: 5% 5% 5%; */
+}
+
+.item{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 7% 0%;
+    /* width: 20%; */
+    margin: 3%;
+}
+.item h2{
+    font-size: 1.5em;
+    font-family: "Nunito sans",sans-serif;
+    font-weight: bold;
+}
+
+.item:hover{
+    background-color: #082032;
+    color: aliceblue;
+}
